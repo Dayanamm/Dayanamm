@@ -1,7 +1,5 @@
 <h2 align='center'>Hola, soy Dayana Martínez 👋</h2>
 
-<img align='center' src="https://user-images.githubusercontent.com/63815530/94375146-2d206b00-00d7-11eb-9572-0d136fea16d3.png">
-
 [![Linkedin: Dayana Martínez](https://img.shields.io/badge/-DayanaMartínez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dayana-martínez//)](https://www.linkedin.com/in/dayana-martínez//)
 [![Gmail Badge](https://img.shields.io/badge/-DayanaMartínez-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dmarcetech@gmail.com)](mailto:dmarcetech@gmail.com)
 
