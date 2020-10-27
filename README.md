@@ -1,4 +1,4 @@
-<h4 align='left'>Hola, soy Dayana Martínez / Salut, je suis Dayana Martínez / Hi, i am Dayana Martínez <img align='left' src="https://rapidapi.com/blog/wp-content/uploads/2017/01/octocat.gif" width="50"></h4>
+<h4 align='left'>Hola, soy Dayana Martínez / Salut, je suis Dayana Martínez / Hi, i am Dayana Martínez 👋🏼 </h4>
 
 
 [![Linkedin: Dayana Martínez](https://img.shields.io/badge/-DayanaMartínez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dayana-martínez//)](https://www.linkedin.com/in/dayana-martínez//)
