@@ -5,8 +5,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-DayanaMartínez-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dmarcetech@gmail.com)](mailto:dmarcetech@gmail.com)
 
 
-
-![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=Dayanamm&show_icons=true&hide_border=true&theme=buefy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dayanamm&layout=compact)](https://github.com/Dayanamm/github-readme-stats)
 
 <h3 align='left'>Lenguajes y Herramientas / Langage et outils / Languages and Tools ⚙ :</h3>
