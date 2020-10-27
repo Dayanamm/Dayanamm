@@ -1,4 +1,4 @@
-<h3 align='left'>Hola, soy Dayana Martínez / Salut, je suis Dayana Martínez / Hi, i am Dayana Martínez 👋🏼 </h3>
+<h4 align='left'>Hola, soy Dayana Martínez / Salut, je suis Dayana Martínez / Hi, i am Dayana Martínez 👋🏼 </h4>
 
 
 [![Linkedin: Dayana Martínez](https://img.shields.io/badge/-DayanaMartínez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dayana-martínez//)](https://www.linkedin.com/in/dayana-martínez//)
@@ -7,7 +7,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dayanamm&layout=compact)](https://github.com/Dayanamm/github-readme-stats)
 
-<h3 align='left'>Lenguajes y Herramientas / Langage et outils / Languages and Tools ⚙ :</h3>
+<h4 align='left'>Lenguajes y Herramientas / Langage et outils / Languages and Tools ⚙ :</h4>
 
 <img align='left' alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
