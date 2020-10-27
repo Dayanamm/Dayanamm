@@ -1,4 +1,4 @@
-<h4 align='left'>Hola, soy Dayana Martínez / Salut, je suis Dayana Martínez / Hi, i am Dayana Martínez 👋🏼 </h4>
+<h3 align='left'>Hola, soy Dayana Martínez / Salut, je suis Dayana Martínez / Hi, i am Dayana Martínez 👋🏼 </h3>
 
 
 [![Linkedin: Dayana Martínez](https://img.shields.io/badge/-DayanaMartínez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dayana-martínez//)](https://www.linkedin.com/in/dayana-martínez//)
@@ -6,7 +6,7 @@
 
 
 
-<h4 align='left'>Lenguajes y Herramientas / Langage et outils / Languages and Tools ⚙ :</h4>
+<h3 align='left'>Lenguajes y Herramientas / Langage et outils / Languages and Tools ⚙ :</h3>
 
 <img align='left' alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
@@ -26,9 +26,11 @@
 
 <img align='left' alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<img align='left' alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align='left' alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />    
 
-<h4> -----------------------------------------------------------------------------------</h4>
+
+
+
 
 ![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=Dayanamm&show_icons=true&hide_border=true&theme=buefy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dayanamm&layout=compact)](https://github.com/Dayanamm/github-readme-stats)
