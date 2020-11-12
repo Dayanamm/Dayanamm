@@ -1,7 +1,7 @@
 <h4 align='left'>Hola, soy Marcela Martínez / Salut, je suis Marcela Martínez / Hi, i'm Marcela Martínez 👋🏼 </h4>
 
 
-[![Linkedin: Dayana Martínez](https://img.shields.io/badge/-DayanaMartínez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dayana-martínez//)](https://www.linkedin.com/in/dayana-martínez//)
+[![Linkedin: Dayana Martínez](https://img.shields.io/badge/-DayanaMartínez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcela-mar//)](https://www.linkedin.com/in/marcela-mar//)
 [![Gmail Badge](https://img.shields.io/badge/-DayanaMartínez-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dmarcetech@gmail.com)](mailto:dmarcetech@gmail.com)
 
 
